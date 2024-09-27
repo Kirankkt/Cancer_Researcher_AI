@@ -7,14 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1dpcQlHI-sNu3j82auq4s1dAxRYB6A_rh
 """
 
-!pip install sqlalchemy
-!pip install faiss-cpu
-!pip install tiktoken
-!pip install langchain-experimental
-!pip install langchain-community
-!pip install langchain-openai
-!pip install langchain
-!pip install streamlit
+
 import pandas as pd
 import sqlite3
 from sqlalchemy import create_engine
