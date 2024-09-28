@@ -1,7 +1,6 @@
 The issue: Right now when the code is run in streamlit the chatbot is not able to understand the user queries related to the previous response...the conversation history seems to be not working even though it is working in colab!.
-Here's a template for a `README.txt` file for your **cancer_chatbot** project. You can customize it further based on your specific implementation and features:
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Cancer Chatbot
 
