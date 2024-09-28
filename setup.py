@@ -16,7 +16,8 @@ setup(
         'langchain',
         'langchain_openai',
         'langchain_community',
-        'faiss'
+        'faiss',
+        'langchain_core'
 
     ],
     classifiers=[
