@@ -1,4 +1,3 @@
-The issue: Right now when the code is run in streamlit the chatbot is not able to understand the user queries related to the previous response...the conversation history seems to be not working even though it is working in colab!.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -14,7 +13,6 @@ The Cancer Chatbot is an interactive application designed to provide users with 
 
 ## Technologies Used
 - **Python**: The primary programming language used for developing the chatbot.
-- **Streamlit**: For creating a user-friendly web interface.
 - **LangChain**: For managing conversations and utilizing language models.
 - **FAISS**: For efficient similarity search and retrieval of information from a knowledge base.
 
@@ -39,12 +37,10 @@ To run the Cancer Chatbot locally, follow these steps:
    ```
 
 ## Running the Chatbot
-To start the chatbot, run the following command:
+To start the chatbot, run the following command in command prompt:
 ```bash
-streamlit run cancer_chatbot.py
+cancer_chatbot 
 ```
-
-After running the command, open your browser and go to `http://localhost:8501` to interact with the chatbot.
 
 ## Usage
 - Ask the chatbot questions about cancer.
