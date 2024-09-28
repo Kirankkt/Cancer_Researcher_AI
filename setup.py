@@ -22,7 +22,7 @@ setup(
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: GPL License',
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.10',  # Specify the Python version your project supports
