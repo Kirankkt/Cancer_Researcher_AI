@@ -54,7 +54,7 @@ After running the command, open your browser and go to `http://localhost:8501` t
 Contributions are welcome! If you have suggestions for improvements or features, please create a pull request or open an issue.
 
 ## License
-This project is licensed under the GPL License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 For any inquiries or feedback, please contact [Akshay P R](mailto:akshaypr314159@gmail.com).
