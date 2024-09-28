@@ -1,8 +1,10 @@
-The issue: Right now when the code is run in streamlit the chatbot is not able to understand the user queries related to the previous response...the conversation history seems to be not working even though it is working in colab!.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Cancer Chatbot
+
+![Cancer_chatbot](https://github.com/Dorcatz123/Cancer_Chatbot/blob/main/openart-image_lEFwQqVA_1727547070986_raw.jpg)
+
 
 ## Overview
 The Cancer Chatbot is an interactive application designed to provide users with information and support related to cancer. It utilizes natural language processing and machine learning techniques to answer questions, provide resources, and assist users in understanding cancer-related topics.
@@ -10,11 +12,10 @@ The Cancer Chatbot is an interactive application designed to provide users with 
 ## Features
 - **Natural Language Understanding**: The chatbot can comprehend and respond to user inquiries about cancer types, treatments, symptoms, and support resources.
 - **Interactive Conversations**: Users can engage in dynamic conversations, receiving tailored responses based on their questions.
-- **Resource Links**: Provides links to reliable cancer-related resources and support organizations.
+- **Resource Links**: Provides links to reliable cancer-related resources and support organizations!.
 
 ## Technologies Used
 - **Python**: The primary programming language used for developing the chatbot.
-- **Streamlit**: For creating a user-friendly web interface.
 - **LangChain**: For managing conversations and utilizing language models.
 - **FAISS**: For efficient similarity search and retrieval of information from a knowledge base.
 
@@ -23,7 +24,7 @@ To run the Cancer Chatbot locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/cancer_chatbot.git
+   git clone https://github.com/Dorcatz123/cancer_chatbot.git
    cd cancer_chatbot
    ```
 
@@ -39,26 +40,24 @@ To run the Cancer Chatbot locally, follow these steps:
    ```
 
 ## Running the Chatbot
-To start the chatbot, run the following command:
+To start the chatbot, run the following command in command prompt:
 ```bash
-streamlit run cancer_chatbot.py
+cancer_chatbot 
 ```
-
-After running the command, open your browser and go to `http://localhost:8501` to interact with the chatbot.
 
 ## Usage
 - Ask the chatbot questions about cancer.
-- Receive information on various cancer topics, including symptoms, treatment options, and support resources.
+- Receive information on various cancer topics, including symptoms, treatment options, and support resources based on the current research findings.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or features, please create a pull request or open an issue.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
-For any inquiries or feedback, please contact [Your Name](mailto:your.email@example.com).
+For any inquiries or feedback, please contact [Akshay P R](mailto:akshaypr314159@gmail.com).
 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Feel free to replace the placeholders (like the GitHub URL, your name, and email) with your actual details. You can also expand on any sections that require more information based on the specific functionalities of your chatbot. Let me know if you need any changes or additional sections!
+
