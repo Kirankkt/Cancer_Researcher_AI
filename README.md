@@ -3,6 +3,9 @@
 
 # Cancer Chatbot
 
+![Cancer_chatbot](https://github.com/Dorcatz123/Cancer_Chatbot/blob/main/openart-image_lEFwQqVA_1727547070986_raw.jpg)
+
+
 ## Overview
 The Cancer Chatbot is an interactive application designed to provide users with information and support related to cancer. It utilizes natural language processing and machine learning techniques to answer questions, provide resources, and assist users in understanding cancer-related topics.
 
