@@ -3,6 +3,8 @@
 
 # Cancer Chatbot
 
+![cancer_chatbot](openart-image_lEFwQqVA_1727547070986_raw.jpg)
+
 ## Overview
 The Cancer Chatbot is an interactive application designed to provide users with information related to cancer. It utilizes natural language processing and machine learning techniques to answer questions, provide resources, and assist users in understanding cancer-related topics.
 
@@ -47,19 +49,17 @@ This project is licensed under the GPL License. See the [LICENSE](LICENSE.txt) f
 
 ## History of the Cancer Chatbot
 
-The Cancer Chatbot project was initiated by Akshay PR and Kiran KKT in [Year](2024) with the goal of providing an AI-powered assistant to help answer common cancer-related queries based on reliable medical information. The project was born out of a desire to create a user-friendly tool for cancer research.
+The Cancer Chatbot project was initiated by Akshay PR and Kiran KKT in (2024) with the goal of providing an AI-powered assistant to help answer common cancer-related queries based on reliable medical information. The project was born out of a desire to create a user-friendly tool for cancer research.
 
 ### Key Milestones:
-- **[Month Year]**: Initial concept and prototype developed.
-- **[Month Year]**: Version 1.0 released, offering basic cancer-related Q&A functionality.
-- **[Month Year]**: Integrated with external medical databases for accurate and updated information.
-- **[Month Year]**: Open-sourced the project to invite collaboration from the broader community.
+- **[09 2024]**: Initial concept and prototype developed.
 
-As we bring in more contributors, the project remains rooted in its mission to provide accessible and reliable information, while maintaining transparency and community-driven development.
+
+As we bring in more contributors, the project remains rooted in its mission to provide accessible and reliable information backed by links to the source documents.
 
 
 ## Contact
-For any inquiries or feedback, please contact Kiran or Akshay: [Akshay P R](mailto:akshaypr314159@gmail.com)[KiranKKT](mailto:akshaypr314159@gmail.com).
+For any inquiries or feedback, please contact Kiran or Akshay: [Akshay P R](mailto:akshaypr314159@gmail.com) / [KiranKKT](mailto:akshaypr314159@gmail.com).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
