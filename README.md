@@ -49,7 +49,7 @@ This project is licensed under the GPL License. See the [LICENSE](LICENSE.txt) f
 
 ## History of the Cancer Chatbot
 
-The Cancer Chatbot project was initiated by Akshay PR and Kiran KKT in (2024) with the goal of providing an AI-powered assistant to help answer common cancer-related queries based on reliable medical information. The project was born out of a desire to create a user-friendly tool for cancer research.
+The Cancer Chatbot project was initiated by Akshay PR and Kiran KT in (2024) with the goal of providing an AI-powered assistant to help answer common cancer-related queries based on reliable medical information. The project was born out of a desire to create a user-friendly tool for cancer research.
 
 ### Key Milestones:
 - **[09 2024]**: Initial concept and prototype developed.
@@ -59,7 +59,7 @@ As we bring in more contributors, the project remains rooted in its mission to p
 
 
 ## Contact
-For any inquiries or feedback, please contact Kiran or Akshay: [Akshay P R](mailto:akshaypr314159@gmail.com) / [KiranKKT](mailto:akshaypr314159@gmail.com).
+For any inquiries or feedback, please contact Kiran or Akshay: [Akshay P R](mailto:akshaypr314159@gmail.com) / [Kiran KT](mailto:akshaypr314159@gmail.com).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
