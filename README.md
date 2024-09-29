@@ -3,51 +3,40 @@
 
 # Cancer Chatbot
 
-![Cancer_chatbot](https://github.com/Dorcatz123/Cancer_Chatbot/blob/main/openart-image_lEFwQqVA_1727547070986_raw.jpg)
-
-
 ## Overview
-The Cancer Chatbot is an interactive application designed to provide users with information and support related to cancer. It utilizes natural language processing and machine learning techniques to answer questions, provide resources, and assist users in understanding cancer-related topics.
+The Cancer Chatbot is an interactive application designed to provide users with information related to cancer. It utilizes natural language processing and machine learning techniques to answer questions, provide resources, and assist users in understanding cancer-related topics.
+
+GitHub link: [Link](https://github.com/Kirankkt/Cancer_Chatbot)
 
 ## Features
-- **Natural Language Understanding**: The chatbot can comprehend and respond to user inquiries about cancer types, treatments, symptoms, and support resources.
+- **Natural Language Understanding**: The chatbot can comprehend and respond to user inquiries about cancer types, treatments, symptoms.
 - **Interactive Conversations**: Users can engage in dynamic conversations, receiving tailored responses based on their questions.
-- **Resource Links**: Provides links to reliable cancer-related resources and support organizations!.
+- **Resource Links**: Provides links to reliable cancer-related resources from journal articles.
 
 ## Technologies Used
 - **Python**: The primary programming language used for developing the chatbot.
 - **LangChain**: For managing conversations and utilizing language models.
 - **FAISS**: For efficient similarity search and retrieval of information from a knowledge base.
 
-## Installation
+## Disclaimer:
+- chatbot is not a substitute for professional medical advice, diagnosis, or treatment. Users should consult healthcare professionals for any medical concerns.
+
+## User installation
 To run the Cancer Chatbot locally, follow these steps:
 
-1. Clone the repository:
    ```bash
-   git clone https://github.com/Dorcatz123/cancer_chatbot.git
-   cd cancer_chatbot
-   ```
-
-2. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-3. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
+  pip install cancer_chatbot
    ```
 
 ## Running the Chatbot
-To start the chatbot, run the following command in command prompt:
+To start the chatbot, run the following command in terminal:
 ```bash
-cancer_chatbot 
+cancer_chatbot
 ```
 
 ## Usage
 - Ask the chatbot questions about cancer.
-- Receive information on various cancer topics, including symptoms, treatment options, and support resources based on the current research findings.
+- Receive information on various cancer topics, including symptoms, treatment options based on the current research findings.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or features, please create a pull request or open an issue.
@@ -55,8 +44,22 @@ Contributions are welcome! If you have suggestions for improvements or features,
 ## License
 This project is licensed under the GPL License. See the [LICENSE](LICENSE.txt) file for details.
 
+
+## History of the Cancer Chatbot
+
+The Cancer Chatbot project was initiated by Akshay PR and Kiran KKT in [Year](2024) with the goal of providing an AI-powered assistant to help answer common cancer-related queries based on reliable medical information. The project was born out of a desire to create a user-friendly tool for cancer research.
+
+### Key Milestones:
+- **[Month Year]**: Initial concept and prototype developed.
+- **[Month Year]**: Version 1.0 released, offering basic cancer-related Q&A functionality.
+- **[Month Year]**: Integrated with external medical databases for accurate and updated information.
+- **[Month Year]**: Open-sourced the project to invite collaboration from the broader community.
+
+As we bring in more contributors, the project remains rooted in its mission to provide accessible and reliable information, while maintaining transparency and community-driven development.
+
+
 ## Contact
-For any inquiries or feedback, please contact [Akshay P R](mailto:akshaypr314159@gmail.com).
+For any inquiries or feedback, please contact Kiran or Akshay: [Akshay P R](mailto:akshaypr314159@gmail.com)[KiranKKT](mailto:akshaypr314159@gmail.com).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
