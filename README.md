@@ -1,62 +1,65 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Cancer Chatbot
+# Cancer Researcher AI
 
-![Cancer_chatbot](https://github.com/Dorcatz123/Cancer_Chatbot/blob/main/openart-image_lEFwQqVA_1727547070986_raw.jpg)
-
+![cancer_chatbot](openart-image_lEFwQqVA_1727547070986_raw.jpg)
 
 ## Overview
-The Cancer Chatbot is an interactive application designed to provide users with information and support related to cancer. It utilizes natural language processing and machine learning techniques to answer questions, provide resources, and assist users in understanding cancer-related topics.
+Cancer Researcher AI is an interactive application designed to provide users with information related to cancer. It utilizes natural language processing and machine learning techniques to answer questions, provide resources, and assist users in understanding cancer-related topics.
+
+GitHub link: [Link](https://github.com/Kirankkt/Cancer_Researcher_AI)
 
 ## Features
-- **Natural Language Understanding**: The chatbot can comprehend and respond to user inquiries about cancer types, treatments, symptoms, and support resources.
+- **Natural Language Understanding**: The chatbot can comprehend and respond to user inquiries about cancer types, treatments, symptoms.
 - **Interactive Conversations**: Users can engage in dynamic conversations, receiving tailored responses based on their questions.
-- **Resource Links**: Provides links to reliable cancer-related resources and support organizations!.
+- **Resource Links**: Provides links to reliable cancer-related resources from journal articles.
 
 ## Technologies Used
 - **Python**: The primary programming language used for developing the chatbot.
 - **LangChain**: For managing conversations and utilizing language models.
 - **FAISS**: For efficient similarity search and retrieval of information from a knowledge base.
 
-## Installation
-To run the Cancer Chatbot locally, follow these steps:
+## Disclaimer:
+- The chatbot is not a substitute for professional medical advice, diagnosis, or treatment. Users should consult healthcare professionals for any medical concerns.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Dorcatz123/cancer_chatbot.git
-   cd cancer_chatbot
-   ```
+## User installation
+To run the Cancer Researcher AI locally, follow these steps:
 
-2. Create a virtual environment (optional but recommended):
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-3. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
+  pip install cancer_researcher_ai
    ```
 
 ## Running the Chatbot
-To start the chatbot, run the following command in command prompt:
+To start the chatbot, run the following command in terminal:
 ```bash
-cancer_chatbot 
+cancer_researcher_ai
 ```
 
 ## Usage
 - Ask the chatbot questions about cancer.
-- Receive information on various cancer topics, including symptoms, treatment options, and support resources based on the current research findings.
+- Receive information on various cancer topics, including symptoms, treatment options based on the current research findings.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or features, please create a pull request or open an issue.
 
 ## License
-This project is licensed under the GPL License. See the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
+
+
+## History of the Cancer Researcher AI
+
+The Cancer Researcher AI project was initiated by Akshay PR and Kiran KT in 2024 with the goal of providing an AI-powered assistant to help answer common cancer-related queries based on reliable medical information. The project was born out of a desire to create a user-friendly tool for cancer research and inspired by [perplexity](https://www.perplexity.ai/).
+
+### Key Milestones:
+- **[09 2024]**: Initial concept and prototype developed.
+
+
+As we bring in more contributors, the project remains rooted in its mission to provide accessible and reliable information backed by links to the source documents.
+
 
 ## Contact
-For any inquiries or feedback, please contact [Akshay P R](mailto:akshaypr314159@gmail.com).
+For any inquiries or feedback, please contact Kiran or Akshay: [Akshay P R](mailto:akshaypr314159@gmail.com) / [Kiran KT](mailto:kthomaskiran3@gmail.com).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
