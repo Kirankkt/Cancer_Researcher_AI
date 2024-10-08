@@ -2,7 +2,7 @@
 import os
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
 from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain_community.document_loaders import WebBaseLoader
 from langchain_core.chat_history import BaseChatMessageHistory
@@ -33,6 +33,18 @@ df['combined'] = df['combined'].str.strip()
 
 
 # Ask for the OpenAI API key if not already set
+print('''  .d8888b.                                                 8888888b.                                                     888                                  d8888 8888888
+d88P  Y88b                                                888   Y88b                                                    888                                 d88888   888  
+888    888                                                888    888                                                    888                                d88P888   888  
+888         8888b.  88888b.   .d8888b .d88b.  888d888     888   d88P .d88b.  .d8888b   .d88b.   8888b.  888d888 .d8888b 88888b.   .d88b.  888d888         d88P 888   888  
+888            "88b 888 "88b d88P"   d8P  Y8b 888P"       8888888P" d8P  Y8b 88K      d8P  Y8b     "88b 888P"  d88P"    888 "88b d8P  Y8b 888P"          d88P  888   888  
+888    888 .d888888 888  888 888     88888888 888         888 T88b  88888888 "Y8888b. 88888888 .d888888 888    888      888  888 88888888 888           d88P   888   888  
+Y88b  d88P 888  888 888  888 Y88b.   Y8b.     888         888  T88b Y8b.          X88 Y8b.     888  888 888    Y88b.    888  888 Y8b.     888          d8888888888   888  
+ "Y8888P"  "Y888888 888  888  "Y8888P "Y8888  888         888   T88b "Y8888   88888P'  "Y8888  "Y888888 888     "Y8888P 888  888  "Y8888  888         d88P     888 8888888  ''') 
+
+print("\n\n Hi there! Thank you for reaching out to me!\n\n")
+
+
 if "OPENAI_API_KEY" not in os.environ:
     api_key = input("Please enter your OpenAI API key: ")
     os.environ["OPENAI_API_KEY"] = api_key
