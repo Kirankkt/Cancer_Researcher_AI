@@ -10,8 +10,12 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+import pandas as pd
 
-df = pd.read_csv('Final_Stacked_Data_without_Duplicates.csv')
+
+dir_path = os.path.dirname(os.path.realpath(__file__))
+csv_file_path = os.path.join(dir_path, 'Final_Stacked_Data_without_Duplicates.csv')
+df = pd.read_csv(csv_file_path)
 df = df.drop(['Unnamed: 0'], axis=1)
 
 
