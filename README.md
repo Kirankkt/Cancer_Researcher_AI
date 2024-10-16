@@ -49,7 +49,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 
 ## History of the Cancer Researcher AI
 
-The Cancer Researcher AI project was initiated by Akshay PR and Kiran KT in 2024 with the goal of providing an AI-powered assistant to help answer common cancer-related queries based on reliable medical information. The project was born out of a desire to create a user-friendly tool for cancer research and inspired by [perplexity](https://www.perplexity.ai/).
+The Cancer Researcher AI project was initiated by Akshay PR and Kiran KT in 2024 with the goal of providing an AI-powered assistant to help answer common cancer-related queries based on reliable medical information. The project was born out of a desire to create a user-friendly tool for cancer research.
 
 ### Key Milestones:
 - **[09 2024]**: Initial concept and prototype developed.
