@@ -4,3 +4,4 @@ langchain_openai
 faiss-cpu
 langchain_core
 pandas
+tqdm
