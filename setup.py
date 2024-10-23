@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cancer_researcher_ai',
-    version='0.1.6',
+    version='0.2.1',
     description='This is a chatbot created to answer all your resaerch questions related to cancer from various journal articles such as PubMed, Biorxiv.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
