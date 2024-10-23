@@ -1,0 +1,3 @@
+include cancer_researcher_ai/*.csv
+
+include cancer_researcher_ai/*.pkl

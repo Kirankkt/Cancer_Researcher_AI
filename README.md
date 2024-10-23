@@ -3,7 +3,7 @@
 
 # Cancer Researcher AI
 
-![cancer_chatbot](openart-image_lEFwQqVA_1727547070986_raw.jpg)
+![cancer_chatbot](https://raw.githubusercontent.com/Dorcatz123/Cancer_Researcher_AI/main/openart-image_lEFwQqVA_1727547070986_raw.jpg)
 
 ## Overview
 Cancer Researcher AI is an interactive application designed to provide users with information related to cancer. It utilizes natural language processing and machine learning techniques to answer questions, provide resources, and assist users in understanding cancer-related topics.
@@ -21,13 +21,13 @@ GitHub link: [Link](https://github.com/Kirankkt/Cancer_Researcher_AI)
 - **FAISS**: For efficient similarity search and retrieval of information from a knowledge base.
 
 ## Disclaimer:
-- The chatbot is not a substitute for professional medical advice, diagnosis, or treatment. Users should consult healthcare professionals for any medical concerns.
+-The Chatbot is not a substitute for professional medical advice, diagnosis, or treatment. Users should consult healthcare professionals for any medical concerns.
 
 ## User installation
-To run the Cancer Researcher AI locally, follow these steps:
+To run the Cancer Chatbot locally, follow these steps:
 
    ```bash
-  pip install cancer_researcher_ai
+  pip install --upgrade cancer_researcher_ai
    ```
 
 ## Running the Chatbot
@@ -41,15 +41,15 @@ cancer_researcher_ai
 - Receive information on various cancer topics, including symptoms, treatment options based on the current research findings.
 
 ## Contributing
-Contributions are welcome! If you have suggestions for improvements or features, please create a pull request or open an issue.
+Contributions are welcome! If you have suggestions for improvements or features, create a pull request or open an issue in the GitHub page.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 
-## History of the Cancer Researcher AI
+## History of the Cancer Chatbot
 
-The Cancer Researcher AI project was initiated by Akshay PR and Kiran KT in 2024 with the goal of providing an AI-powered assistant to help answer common cancer-related queries based on reliable medical information. The project was born out of a desire to create a user-friendly tool for cancer research.
+The Cancer Chatbot project was initiated by Akshay PR and Kiran KKT in (2024) with the goal of providing an AI-powered assistant to help answer common cancer-related queries based on reliable medical information. The project was born out of a desire to create a user-friendly tool for cancer research.
 
 ### Key Milestones:
 - **[09 2024]**: Initial concept and prototype developed.
@@ -59,7 +59,7 @@ As we bring in more contributors, the project remains rooted in its mission to p
 
 
 ## Contact
-For any inquiries or feedback, please contact Kiran or Akshay: [Akshay P R](mailto:akshaypr314159@gmail.com) / [Kiran KT](mailto:kthomaskiran3@gmail.com).
+For any inquiries or feedback, please contact Kiran or Akshay: [Akshay P R](mailto:akshaypr314159@gmail.com) / [KiranKKT](mailto:akshaypr314159@gmail.com).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
