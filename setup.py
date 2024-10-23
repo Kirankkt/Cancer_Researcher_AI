@@ -9,7 +9,7 @@ setup(
     author='Akshay P R, Kiran K T',
     author_email='akshaypr314159@gmail.com',
     url='https://github.com/Dorcatz123/cancer_chatbot.git',
-    packages=find_packages(),
+    packages=find_packages(include=['cancer_researcher_ai', 'cancer_researcher_ai.*']),
     package_data={'cancer_chatbot': ['*.csv']},
     include_package_data = True,
     install_requires=[
