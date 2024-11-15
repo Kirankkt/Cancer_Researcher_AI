@@ -7,7 +7,7 @@
 
 # YouTube tutorial:
 
-![cancer_chatbot]()(https://www.youtube.com/watch?v=c2yG6IH-Ocg)
+![cancer_chatbot](https://img.youtube.com/vi/watch?v=c2yG6IH-Ocg)(https://www.youtube.com/watch?v=c2yG6IH-Ocg)
 
 ## Overview
 Cancer Researcher AI is an interactive application designed to provide users with information related to cancer. It utilizes natural language processing and machine learning techniques to answer questions, provide resources, and assist users in understanding cancer-related topics.
